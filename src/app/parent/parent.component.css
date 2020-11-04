@@ -1,0 +1,28 @@
+.btn{
+    position: relative;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    color:white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.rojo{
+    top:100px;
+    left: 150px;
+    background-color: red;
+}
+
+.verde{
+    top:150px;
+    left: 50px;
+    background-color: green;
+}
+
+.azul{
+    top:200px;
+    left: -50px;
+    background-color:blue;
+}
